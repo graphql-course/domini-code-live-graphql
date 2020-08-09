@@ -1,0 +1,7 @@
+type Query {
+    hello: String!
+    helloWithName(name: String!): String!
+    helloToGraphQLCourse: String!
+    todos: [String]
+    products: [Product]
+}

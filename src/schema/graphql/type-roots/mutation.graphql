@@ -1,0 +1,5 @@
+type Mutation {
+    add(value: String!): [String]
+    addProduct(product: ProductInput): Boolean
+    updateProduct(code: ID!, stock: Int!): Boolean
+}

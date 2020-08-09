@@ -1,0 +1,9 @@
+type Product {
+    "Código del producto"
+    code: ID!
+    "Nombre del producto"
+    name: String!
+    description: String!
+    price: Float!
+    stock: Int!
+}

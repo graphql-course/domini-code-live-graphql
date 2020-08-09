@@ -1,0 +1,13 @@
+"""
+### Para gestionar la información de los productos
+Operaciones para trabajar con los productos
+"""
+input ProductInput {
+    "Código del producto"
+    code: ID!
+    "Nombre del producto"
+    name: String!
+    description: String!
+    price: Float!
+    stock: Int!
+}
