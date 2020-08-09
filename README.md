@@ -1,4 +1,4 @@
-# Domini Code Livre GraphQl - Control de inventario en tiempo real
+# Domini Code Live GraphQl - Control de inventario en tiempo real
 
 Código relacionado al live celebrado el 08/08/2020 en el canal de [Domini Code](https://www.youtube.com/channel/UC3QuZuJr2_EOUak8bWUd74A)
 
